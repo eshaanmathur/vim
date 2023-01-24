@@ -1,0 +1,9 @@
+[submodule "vim-surround"]
+	path = pack/plugins/start/vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "vim-commentary"]
+	path = pack/plugins/start/vim-commentary
+	url = git@github.com:tpope/vim-commentary.git
+[submodule "vim-highlightedyank"]
+	path = pack/plugins/start/vim-highlightedyank
+	url = git@github.com:machakann/vim-highlightedyank.git
