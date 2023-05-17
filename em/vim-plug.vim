@@ -9,4 +9,5 @@ call plug#begin()
  Plug 'tpope/vim-surround'
  Plug 'tpope/vim-commentary'
  Plug 'machakann/vim-highlightedyank'
+ Plug 'catppuccin/vim', { 'as': 'catppuccin' }
 call plug#end()

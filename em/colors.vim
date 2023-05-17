@@ -1,5 +1,3 @@
 
 set background=dark
-
-colorscheme habamax
-
+colorscheme catppuccin_mocha
