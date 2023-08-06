@@ -5,6 +5,7 @@ noremap <leader>fe <cmd>Exp<CR>
 nnoremap <Tab> <cmd>bnext<CR>
 nnoremap <S-Tab> <cmd>bprevious<CR>
 noremap <leader>x <cmd>bd<CR>
+noremap <leader>X <cmd>bd!<CR>
 
 inoremap jj <ESC>
 inoremap kk <ESC>
