@@ -10,4 +10,5 @@ call plug#begin()
  Plug 'tpope/vim-commentary'
  Plug 'machakann/vim-highlightedyank'
  Plug 'catppuccin/vim', { 'as': 'catppuccin' }
+ Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
